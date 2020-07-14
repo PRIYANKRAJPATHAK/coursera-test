@@ -1,0 +1,96 @@
+body
+{
+	color:orange;
+	background-color: black;
+}
+#chicken-tile
+{
+	border-width: 50px;
+}
+
+#header-nav
+{
+
+	background-color: maroon;
+	border-radius: 0;
+	border:0px;
+	
+}
+
+
+.navbar-default .navbar-toggle:hover 
+	{
+		background-color: black;
+	}
+	
+ 
+
+.navbar-brand {
+	color: black;
+	font-weight:500px;
+	line-height: 00px;
+	margin-top: 7px;
+	
+}
+.navbar-brand a:hover{
+	text-decoration: none;
+}
+
+.navbar-default .navbar-nav>li>a:hover
+{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+h1
+{
+	font-weight: bold;
+	color: black;
+	line-height: 0px;
+	margin-top: 5px;
+
+}
+
+
+  h2
+{
+	color:orangered;
+
+}
+h3
+{
+	color: white;
+	font-family: helvetica,serif;
+}
+a
+{
+	color: red;
+}
+a:hover
+{
+	color:white;
+	text-decoration:none;
+	cursor:pointer;
+}
+section
+{
+	border: 1px solid red;
+	margin: 5px; 
+	padding: 5px;
+	background-color: #1a0000;
+	overflow:auto;
+
+}
+
+ 
+hr
+{
+	width: 100%;
+	background-color: black;
+	color: black;
+		
+	background-color: black;
+	
+	margin-top: 2px;
+   margin-bottom: 2px;
+}
